@@ -1,0 +1,12 @@
+2019-12-04 11:24:06,585 [1] INFO NewMatrixModule.MatrixesModule - Starting Matrixes Module on 4 points
+2019-12-04 11:24:06,616 [1] INFO NewMatrixModule.MatrixesModule - Waiting for a result...
+2019-12-04 11:24:06,620 [1] INFO NewMatrixModule.MatrixesModule - Sending finished: time = 0.003
+2019-12-04 11:24:07,679 [1] INFO NewMatrixModule.MatrixesModule - Result found: time = 1.063, saving the result to the file resMatrix.txt
+2019-12-04 11:24:18,648 [1] INFO NewMatrixModule.MatrixesModule - Starting Matrixes Module on 1 points
+2019-12-04 11:24:18,664 [1] INFO NewMatrixModule.MatrixesModule - Waiting for a result...
+2019-12-04 11:24:18,680 [1] INFO NewMatrixModule.MatrixesModule - Sending finished: time = 0.016
+2019-12-04 11:24:18,758 [1] INFO NewMatrixModule.MatrixesModule - Result found: time = 0.094, saving the result to the file resMatrix.txt
+2019-12-05 04:48:51,896 [1] INFO NewMatrixModule.MatrixesModule - Starting Matrixes Module on 4 points
+2019-12-05 04:48:51,927 [1] INFO NewMatrixModule.MatrixesModule - Waiting for a result...
+2019-12-05 04:48:51,927 [1] INFO NewMatrixModule.MatrixesModule - Sending finished: time = 0
+2019-12-05 04:48:53,567 [1] INFO NewMatrixModule.MatrixesModule - Result found: time = 1.641, saving the result to the file resMatrix.txt
